@@ -1,6 +1,6 @@
 <?php
 
-    namespace Fred\Ageconverter;
+    namespace Rwihimba\Ageconverter;
     use Illuminate\Support\ServiceProvider;
 
     class AgeServiceProvider extends ServiceProvider {

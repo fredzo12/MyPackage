@@ -1,5 +1,5 @@
 {
-    "name": "fred/ageconverter",
+    "name": "rwihimba/ageconverter",
     "description": "converting the year of birth to age",
     "type": "project",
     "authors": [
@@ -11,7 +11,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Fred\\Ageconverter\\": "src/"
+            "Rwihimba\\Ageconverter\\": "src/"
         }
     },
     "require": {}

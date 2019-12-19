@@ -1,6 +1,6 @@
 <?php
 
-    use Fred\Ageconverter\Age;
+    use Rwihimba\Ageconverter\Age;
 
     Route::get('/converter/{name}/{age}', function($name,$dob) {
         $age = new Age();

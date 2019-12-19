@@ -1,5 +1,5 @@
 <?php
-namespace Fred\Ageconverter;
+namespace Rwihimba\Ageconverter;
 class Age
 {
     public function Age(String $name, String $dob)
