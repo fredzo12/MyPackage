@@ -1,0 +1,18 @@
+{
+    "name": "fred/ageconverter",
+    "description": "converting the year of birth to age",
+    "type": "project",
+    "authors": [
+        {
+            "name": "fredzo12",
+            "email": "rwihimba2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Fred\\Ageconverter\\": "src/"
+        }
+    },
+    "require": {}
+}
